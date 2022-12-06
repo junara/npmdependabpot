@@ -1,0 +1,19 @@
+{
+  "name": "npmdependabpot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junara/npmdependabpot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junara/npmdependabpot/issues"
+  },
+  "homepage": "https://github.com/junara/npmdependabpot#readme"
+}
