@@ -9,6 +9,6 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: daily
-      time: "7:00"
+      time: "07:55"
       timezone: "Asia/Tokyo"
     rebase-strategy: disabled
